@@ -60,7 +60,29 @@
     ]
   },
   "atmosferas": {
-    "papers": []
+    "keywords": "definitions of atmosphere",
+    "criteria": "Tese",
+    "papers": [
+      {
+        "link": "https://www.researchgate.net/publication/361427971_Architecture_Is_Atmosphere_Notes_on_Empathy_Emotions_Body_Brain_and_Space",
+        "title": "Experiências Arquitetônicas: Propostas de abordagem de projeto com enfoque na produção intencional de experiência do usuário na arquitetura",
+        "authors": ["Rafael Fischer"],
+        "definitions": [
+          "Atmosfera arquitetônica, também conhecida como Atmosfera afetiva, faz referência ao mood, qualidades sensoriais e sensações transmitidas por um determinado espaço arquitetônico (MATHEW, 2017).",
+          "Atmosfera é a impressão sensorial e emocional de um determinado espaço, local ou situação social (PALLASMAA, 2014).",
+          "A Atmosfera é compreendida como um todo. Não se trata, portanto, de algo determinístico, que pode ser dividido em partes, mas sim da percepção que se tem de um espaço como um todo quando se é exposto ao mesmo (MERLEAU-PONTY, 1962).",
+          "Atmosfera é a arquitetura, e em um contexto de pós-materialismo como para o qual a humanidade está caminhando, é preciso que arquitetos passem a dar mais ênfase nos aspectos sensoriais e emocionais dos espaços que projetam (RAHM, 2018).",
+          "Atmosferas são compostas do corpo da arquitetura (sua materialidade), da consonância dos materiais, dos sons dos espaços, da temperatura dos espaços, do entorno, do contraste, da luz, dos graus de intimidade, da harmonia, da forma bonita e da ‘envolvência’ da arquitetura (ZUMTHOR, 2006)."
+        ],
+        "references": [
+          "Pallasmaa, J. 'Space, place and atmosphere: Emotion and peripherical perception in architectural experience.' Lebenswelt: aesthetics and philosophy of experience, n.4, p. 230-245, 2014.",
+          "MERLEAU-PONTY, M. Phenomenology of Perception: an introduction. Routledge, 1962.",
+          "Rahm, P. Philippe Rahm Architectes. Architectural Climates. Lars Muller Publishers, 2018.",
+          "ZUMTHOR. P. Atmosferas. GG. 2006.",
+          "Matthew Gandy The Cultural Geographies Annual Lecture 2016 Urban atmospheres cultural geographiesVolume 24, Issue 3, July 2017, Pages 353-374 © The Author(s) 2017, Article Reuse Guidelines"
+        ]
+      }
+    ]
   },
   "atmospherics": { "papers": [] },
   "experiência_arquitetônica": { "papers": [] }
