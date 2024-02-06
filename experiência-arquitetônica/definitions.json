@@ -1,0 +1,67 @@
+{
+  "user_experience": {
+    "keywords": "definition of user experience",
+    "criteria": "Research Gate, all types, since 2020",
+    "papers": [
+      {
+        "authors": ["Alexander Kreis", "Daniel Fragner", "Mario Hirz"],
+        "link": "https://www.researchgate.net/publication/372283600_User_Experience_in_Modern_Cars_-_Definition_Relevance_and_Challenges_of_Digital_Automotive_Applications",
+        "title": "User Experience in Modern Cars – Definition, Relevance and Challenges of Digital Automotive Applications",
+        "definitions": [
+          "User experience (UX) encompasses all aspects of how people interact with a product, including how it feels, how well they understand it, their emotional response while using it, its utility, and its contextual fit (Alben, 1996).",
+          "In UX research, subjective criteria and individual experiences with the product take precedence over objective usability criteria. Alben, 1996, emphasizes the importance of subjective criteria in understanding user experience.",
+          "According to Hassenzahl, 2010, user experience involves pragmatic and hedonic qualities. Pragmatic UX focuses on practicality and goal orientation, while hedonic UX emphasizes fun and entertainment. Both perspectives contribute to a comprehensive understanding of user experience."
+        ],
+        "references": [
+          "Hassenzahl, Marc. (2010) “Experience design: Technology for all the right reasons”in: Synthesis Lectures on Human-Centered Informatics Volume 3 No. 1.",
+          "Alben, Lauralee. (1996). Defining the Criteria for Effective Interaction Design"
+        ]
+      },
+      {
+        "link": "https://www.researchgate.net/publication/353687271_FROM_THE_DEFINITION_OF_USER_EXPERIENCE_TO_A_FRAMEWORK_TO_CLASSIFY_ITS_APPLICATIONS_IN_DESIGN",
+        "title": "FROM THE DEFINITION OF USER EXPERIENCE TO AFRAMEWORK TO CLASSIFY ITS APPLICATIONS IN DESIGN",
+        "authors": ["Aurora Berni", "Yuri Borgianni"],
+        "definitions": [
+          "User experience (UX) encompasses the emotional and affective aspects of interaction, emphasizing the 'joy to own' a product or system (Sun and Teng, 2017).",
+          "According to Hassenzahl and Tractinsky (2006), UX is a combination of factors involving the user (e.g., predispositions, expectations, needs, motivation, and mood), the designed system (e.g., complexity, purpose, usability, and functionality), and the context of interaction.",
+          "Scholars like McCarthy and Wright (2004) interpret human interaction with technology as a multi-dimensional experience, comprising sensual, emotional, compositional, and spatio-temporal aspects.",
+          "Contrary to some views, Hassenzahl (2010) argues that technology and interactive products mediate but do not constitute experiences themselves.",
+          "ISO 9241-210 defines UX as 'a person's perceptions and responses resulting from the use or anticipated use of a product, system, or service' (DIS, 2010), encapsulating users' emotions, beliefs, preferences, perceptions, and behaviors."
+        ],
+        "references": [
+          "DIS, I. (2010), “9241-210: 2010. Ergonomics of human system interaction-Part 210: Human-centred design forinteractive systems (formerly known as 13407)”, International Standardization Organization (ISO). ",
+          "Hassenzahl, M. (2010), “Experience Design: Technology for All the Right Reasons”, Synthesis Lectures onHuman-Centered Informatics, Vol. 3 No. 1, pp. 1–95 ",
+          "McCarthy, J. and Wright, P. (2004), Technology as Experience, Vol. 11, MIT Press, Cambridge, Massachusetts,United States.",
+          "Hassenzahl, M. and Tractinsky, N. (2006), “User experience - a research agenda”, Behaviour & InformationTechnology, Vol. 25 No. 2, pp. 91–97.",
+          "Sun, S. and Teng, L. (2017), “Establishing China’s First UX Master Program Based on Applied PsychologyPerspective”, in Marcus, A. and Wang, W. (Eds.), Design, User Experience, and Usability: Theory,Methodology, and Management, Springer International Publishing, Cham, pp. 767–775 "
+        ]
+      },
+      {
+        "link": "https://www.researchgate.net/publication/354934402_DEFINITIONS_AND_CONCEPTS_OF_USER_EXPERIENCE_UX_A_LITERATURE_REVIEW",
+        "title": "DEFINITIONS AND CONCEPTS OF USER EXPERIENCE (UX): A LITERATURE REVIEW",
+        "authors": [
+          "Mohamad Shahfik Afendi Abdul Ghani",
+          "SYADIAH NOR WAN SHAMSUDDIN"
+        ],
+        "definitions": [
+          "User experience (UX) in human-computer interaction involves individual perception, emotion, cognition, motivation, and action, encompassing interaction with various elements (Kuliga et al., 2015).",
+          "UX is about understanding how individuals derive value from their interactions with products, systems, or experiences, emphasizing credibility, desirability, usefulness, and usability (Pietroni et al., 2016).",
+          "Simonsen (2018) defines UX as the user's emotional and evaluative responses while interacting with a user interface (UI), focusing on achieving goals, aesthetics, and user perception.",
+          "ISO9241-210 characterizes UX as the perceptions and responses of humans resulting from the anticipation or use of products, systems, or services (Han et al., 2017).",
+          "UX encompasses usability but extends beyond it to include satisfaction, affect, and user value, as proposed by Park et al. (2011), indicating the subjective nature of UX (Zarour & Alharbi, 2017)."
+        ],
+        "references": [
+          "Kuliga, S. F., Thrash, T., Dalton, R. C., & Hölscher, C. (2015). Computers, Environment and Urban Systems Virtual Reality as An Empirical Research Tool—Exploring User Experience in A Real Building and A Corresponding Virtual Model. CEUS, 54, 363–375",
+          "Pietroni, E., Pagano, A., Amadei, M., & Galiffa, F. (2016). Livia,s Villa Reloaded Virtual Reality Museum: User Experience Evaluation. ICERI2016 Proceedings, 349–359. https://doi.org/10.21125/iceri.2016.1083",
+          "Simonsen, J. G. (2018). Evaluation Factors User Experience. The Wiley Handbook of Human Computer Interaction, Volume 1(1st Edition), 193–206.",
+          "Park, J., Han, S. H., Kim, H. K., Cho, Y., & Park, W. (2011). Developing Elements of User Experience for Mobile Phones and Services: Survey, Interview, and Observation Approaches. Human Factors and Ergonomics in Manufacturing & Service Industries, 00(0), 1–15"
+        ]
+      }
+    ]
+  },
+  "atmosferas": {
+    "papers": []
+  },
+  "atmospherics": { "papers": [] },
+  "experiência_arquitetônica": { "papers": [] }
+}
